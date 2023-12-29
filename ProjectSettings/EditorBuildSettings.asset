@@ -20,4 +20,22 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 4d832357dea20f0499619747a66ecf3e
+  - enabled: 1
+    path: Assets/Scenes/SensorsMenu.unity
+    guid: 2c3de2e5ef4b47043ba7685d6390e594
+  - enabled: 1
+    path: Assets/Scenes/TestingSpeedAR.unity
+    guid: d83dc29a260ce4f47aa49102be7eefb2
+  - enabled: 0
+    path: Assets/Scenes/TestingSpeed.unity
+    guid: 9b19b9b18174304488a8636d0ffc1656
+  - enabled: 0
+    path: Assets/Scenes/TestingTemp.unity
+    guid: 77b47df2997d32a4b899342e75919a56
+  - enabled: 0
+    path: Assets/Scenes/TestingUltra.unity
+    guid: a53dd0f7a6b72474a80488745eee7dd9
   m_configObjects: {}
